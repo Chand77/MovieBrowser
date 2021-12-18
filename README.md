@@ -1,1 +1,2 @@
-# created the MovieBrowser application using swift with the most latest Xcode version 13.2 and IOS tooling with out any errors/warnings.
+Developed the MovieBrowser application using Swift with the latest Xcode version 13.2 and IOS tooling.
+Application runs with out any errors/warnings. 
